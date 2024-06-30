@@ -25,5 +25,8 @@
 		"typescript": "^5.4.5",
 		"vite": "^5.2.13"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"svelte-headlessui": "^0.0.42"
+	}
 }
